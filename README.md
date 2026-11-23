@@ -1,19 +1,11 @@
-# A Day of One-Line Pitches
+# One-Line Pitch
 
-One sentence, written for a friend who has never coded, entered into the
-[A Day of One-Line Pitches competition on make.fun](https://make.fun/).
+An entry for make.fun's "A Day of One-Line Pitches" bounty, $5 in USDC.
 
-[![Competition badge](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3.svg)](https://make.fun/)
-[![Rank badge](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/Kendisamar01/u-ronigrv-one-line-pitches/rank.svg)](https://make.fun/)
-[![Reward badge](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/Kendisamar01/u-ronigrv-one-line-pitches/reward.svg)](https://make.fun/)
+[![make.fun · u-ronigrv-a-day-of-one-line-pitches-12cd9bb3](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
+[![rank](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/Kendisamar01/u-ronigrv-one-line-pitches/rank.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
+[![reward](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/Kendisamar01/u-ronigrv-one-line-pitches/reward.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
 
-## How it runs
-
-`python3 main.py` validates the pitch (UTF-8, 1 to 240 characters, one printed
-line, names make.fun) and writes its exact bytes to `/output/entry.txt`.
-The program uses only the Python standard library and reads nothing outside
-this repository.
-
-## License
-
-MIT; see [LICENSE](LICENSE).
+```bash
+python3 main.py
+```
